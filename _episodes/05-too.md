@@ -1,7 +1,8 @@
 ---
-title: "Like"
+title: "Too"
 teaching: 5
 exercises: 5
+start: true
 questions:
 - "Key question (FIXME)"
 objectives:
